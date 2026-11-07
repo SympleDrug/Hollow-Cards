@@ -1,0 +1,272 @@
+[
+  {
+    "file": "boss_01.png",
+    "x": 16,
+    "y": 10,
+    "width": 414,
+    "height": 433,
+    "area": 126130,
+    "side": null
+  },
+  {
+    "file": "boss_02.png",
+    "x": 1158,
+    "y": 14,
+    "width": 192,
+    "height": 216,
+    "area": 24520,
+    "side": null
+  },
+  {
+    "file": "boss_03.png",
+    "x": 924,
+    "y": 16,
+    "width": 201,
+    "height": 211,
+    "area": 23312,
+    "side": null
+  },
+  {
+    "file": "boss_04.png",
+    "x": 698,
+    "y": 19,
+    "width": 196,
+    "height": 211,
+    "area": 25255,
+    "side": null
+  },
+  {
+    "file": "boss_05.png",
+    "x": 1360,
+    "y": 22,
+    "width": 165,
+    "height": 207,
+    "area": 20325,
+    "side": null
+  },
+  {
+    "file": "boss_06.png",
+    "x": 454,
+    "y": 27,
+    "width": 213,
+    "height": 203,
+    "area": 26995,
+    "side": null
+  },
+  {
+    "file": "boss_07.png",
+    "x": 445,
+    "y": 268,
+    "width": 177,
+    "height": 170,
+    "area": 15683,
+    "side": null
+  },
+  {
+    "file": "boss_08.png",
+    "x": 614,
+    "y": 271,
+    "width": 149,
+    "height": 166,
+    "area": 14692,
+    "side": null
+  },
+  {
+    "file": "boss_09.png",
+    "x": 962,
+    "y": 272,
+    "width": 177,
+    "height": 165,
+    "area": 15584,
+    "side": null
+  },
+  {
+    "file": "boss_10.png",
+    "x": 1155,
+    "y": 275,
+    "width": 182,
+    "height": 161,
+    "area": 16668,
+    "side": null
+  },
+  {
+    "file": "boss_11.png",
+    "x": 1350,
+    "y": 275,
+    "width": 176,
+    "height": 160,
+    "area": 15764,
+    "side": null
+  },
+  {
+    "file": "boss_12.png",
+    "x": 782,
+    "y": 278,
+    "width": 167,
+    "height": 158,
+    "area": 15110,
+    "side": null
+  },
+  {
+    "file": "boss_13.png",
+    "x": 214,
+    "y": 464,
+    "width": 153,
+    "height": 189,
+    "area": 15364,
+    "side": null
+  },
+  {
+    "file": "boss_14.png",
+    "x": 785,
+    "y": 465,
+    "width": 222,
+    "height": 182,
+    "area": 21630,
+    "side": null
+  },
+  {
+    "file": "boss_15.png",
+    "x": 608,
+    "y": 472,
+    "width": 158,
+    "height": 175,
+    "area": 14083,
+    "side": null
+  },
+  {
+    "file": "boss_16.png",
+    "x": 10,
+    "y": 475,
+    "width": 192,
+    "height": 176,
+    "area": 18669,
+    "side": null
+  },
+  {
+    "file": "boss_17.png",
+    "x": 390,
+    "y": 475,
+    "width": 190,
+    "height": 173,
+    "area": 18177,
+    "side": null
+  },
+  {
+    "file": "boss_18.png",
+    "x": 1014,
+    "y": 486,
+    "width": 236,
+    "height": 160,
+    "area": 18117,
+    "side": null
+  },
+  {
+    "file": "boss_19.png",
+    "x": 1242,
+    "y": 498,
+    "width": 285,
+    "height": 145,
+    "area": 21723,
+    "side": null
+  },
+  {
+    "file": "boss_20.png",
+    "x": 12,
+    "y": 662,
+    "width": 226,
+    "height": 171,
+    "area": 23949,
+    "side": null
+  },
+  {
+    "file": "boss_21.png",
+    "x": 778,
+    "y": 673,
+    "width": 198,
+    "height": 164,
+    "area": 20030,
+    "side": null
+  },
+  {
+    "file": "boss_22.png",
+    "x": 1000,
+    "y": 680,
+    "width": 297,
+    "height": 160,
+    "area": 21088,
+    "side": null
+  },
+  {
+    "file": "boss_23.png",
+    "x": 494,
+    "y": 691,
+    "width": 242,
+    "height": 143,
+    "area": 23757,
+    "side": null
+  },
+  {
+    "file": "boss_24.png",
+    "x": 264,
+    "y": 694,
+    "width": 197,
+    "height": 141,
+    "area": 18326,
+    "side": null
+  },
+  {
+    "file": "boss_25.png",
+    "x": 1331,
+    "y": 700,
+    "width": 195,
+    "height": 89,
+    "area": 8536,
+    "side": null
+  },
+  {
+    "file": "boss_26.png",
+    "x": 15,
+    "y": 851,
+    "width": 183,
+    "height": 154,
+    "area": 16187,
+    "side": null
+  },
+  {
+    "file": "boss_27.png",
+    "x": 1060,
+    "y": 850,
+    "width": 393,
+    "height": 153,
+    "area": 28556,
+    "side": null
+  },
+  {
+    "file": "boss_28.png",
+    "x": 226,
+    "y": 860,
+    "width": 202,
+    "height": 145,
+    "area": 16636,
+    "side": null
+  },
+  {
+    "file": "boss_29.png",
+    "x": 474,
+    "y": 882,
+    "width": 227,
+    "height": 123,
+    "area": 16738,
+    "side": null
+  },
+  {
+    "file": "boss_30.png",
+    "x": 744,
+    "y": 913,
+    "width": 288,
+    "height": 81,
+    "area": 13870,
+    "side": null
+  }
+]
